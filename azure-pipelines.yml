@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'b59fead0-a547-4c27-b277-14d55238b92f'
   
   # Web app name
-  webAppName: 'java-pipeline'
+  webAppName: 'jva-pipeline'
 
   # Environment name
   environmentName: 'linuxappservplan'
